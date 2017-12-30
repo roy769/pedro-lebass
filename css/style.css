@@ -1,0 +1,15 @@
+.col s10{
+  text-align:left;
+},
+
+ #motto{
+   font-family: Trebuchet;
+ },
+
+ .strong{
+   font-weight: 500;
+ },
+
+ .head{
+  opacity:.2
+ }
