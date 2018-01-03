@@ -10,6 +10,6 @@
    font-weight: 500;
  },
 
- .head{
-  opacity:.2
+ .opacity{
+  opacity: .5;
  }
