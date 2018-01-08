@@ -16,4 +16,5 @@ function flipIt(result) {
 }
 $(".fish-image").on("click", function() {
   flipIt()
-});
+}),
+window.onload = flipIt();
